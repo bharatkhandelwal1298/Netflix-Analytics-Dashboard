@@ -107,7 +107,6 @@ Interactive Dashboard Includes:
 
 * KPI Cards
 * Movies vs TV Shows Analysis
-* Top Genres
 * Content Added Trend
 * Country-wise Content Map
 * Ratings Distribution
@@ -117,7 +116,6 @@ Interactive Dashboard Includes:
 
 Interactive Filters:
 
-* Genre
 * Country
 * Release Year
 * Rating
@@ -134,7 +132,6 @@ The dashboard enables users to explore:
 * Production trends over time
 * Regional content concentration
 * Audience rating segmentation
-* Content portfolio composition
 
 ---
 

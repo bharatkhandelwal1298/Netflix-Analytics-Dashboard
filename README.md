@@ -1,0 +1,186 @@
+# Netflix Content Analytics Dashboard | SQL + Python + Power BI
+
+## Project Overview
+
+This project analyzes Netflix Movies and TV Shows data to uncover content trends, genre distribution, country-wise production patterns, ratings distribution, and content growth over time.
+
+The objective is to transform raw Netflix content data into actionable business insights using SQL, Python, and Power BI.
+
+---
+
+## Business Problem
+
+Streaming platforms generate massive amounts of content data. Understanding content distribution, audience categories, production trends, and content growth helps businesses make informed decisions regarding content strategy and market expansion.
+
+This project focuses on:
+
+* Movies vs TV Shows Analysis
+* Genre Popularity Analysis
+* Country-wise Content Production
+* Ratings Distribution
+* Content Growth Trends
+* Duration Analysis
+* Interactive Dashboarding
+
+---
+
+## Tools & Technologies
+
+* SQL (MySQL)
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+* Power Query
+* DAX
+
+---
+
+## Dataset
+
+Netflix Movies and TV Shows Dataset from Kaggle
+
+Dataset includes:
+
+* Show ID
+* Title
+* Type
+* Director
+* Cast
+* Country
+* Date Added
+* Release Year
+* Rating
+* Duration
+* Genre
+* Description
+
+---
+
+## Data Cleaning
+
+Performed extensive data preprocessing:
+
+* Removed duplicate records
+* Handled missing values
+* Standardized categorical values
+* Converted date fields
+* Split duration into value and unit
+* Prepared data for SQL and Power BI analysis
+
+---
+
+## SQL Analysis
+
+Key business questions answered:
+
+* Total content available on Netflix
+* Movies vs TV Shows distribution
+* Top content-producing countries
+* Genre distribution analysis
+* Content added over time
+* Ratings distribution
+* Director analysis
+* Release year trends
+
+---
+
+## Python Exploratory Data Analysis
+
+Performed:
+
+* Data quality assessment
+* Missing value analysis
+* Genre analysis
+* Country analysis
+* Ratings analysis
+* Time-series trend analysis
+* Distribution visualizations
+
+---
+
+## Power BI Dashboard Features
+
+Interactive Dashboard Includes:
+
+* KPI Cards
+* Movies vs TV Shows Analysis
+* Top Genres
+* Content Added Trend
+* Country-wise Content Map
+* Ratings Distribution
+* Top Countries Analysis
+* Director Analysis
+* Dynamic Filtering
+
+Interactive Filters:
+
+* Genre
+* Country
+* Release Year
+* Rating
+* Content Type
+
+---
+
+## Key Business Insights Generated
+
+The dashboard enables users to explore:
+
+* Content category distribution
+* Genre demand patterns
+* Production trends over time
+* Regional content concentration
+* Audience rating segmentation
+* Content portfolio composition
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* SQL Querying
+* Exploratory Data Analysis
+* Data Visualization
+* Dashboard Design
+* DAX
+* Business Intelligence
+* Storytelling with Data
+
+---
+
+## Project Structure
+
+Netflix_Data_Analysis/
+
+├── Dataset/
+
+├── SQL/
+
+├── Python/
+
+├── PowerBI/
+
+├── Dashboard_Screenshots/
+
+├── README.md
+
+---
+
+## Dashboard Preview
+
+<img width="2034" height="1252" alt="Netflix_Dashboard" src="https://github.com/user-attachments/assets/53c4af96-54f0-4594-a273-53b977f157db" />
+
+
+---
+
+## Author
+
+Bharat Khandelwal
+
+Aspiring Data Analyst
+
+SQL | Python | Power BI | Excel
